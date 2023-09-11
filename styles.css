@@ -69,7 +69,6 @@ small {
   color: #242742;
 }
 .error {
-  visibility: hidden;
   color: #ff6155;
   border: 1px solid var(--Vermellion, #ff6155);
   background: rgba(255, 97, 85, 0.15);
